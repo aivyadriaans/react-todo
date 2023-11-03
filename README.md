@@ -1,13 +1,13 @@
 # React + Vite
 
-###important commands
+### important commands
 
-#####create 
+##### create 
 npm create vite@latest
 
-#####install
+##### install
 Go into folder of project and run 
 npm i 
 
-#####run 
+##### run 
 npm run dev
