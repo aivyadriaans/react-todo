@@ -2,12 +2,12 @@
 
 ### important commands
 
-##### create 
+__create__
 npm create vite@latest
 
-##### install
+__install__
 Go into folder of project and run 
 npm i 
 
-##### run 
+__run__
 npm run dev
